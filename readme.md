@@ -1,0 +1,2 @@
+# Skide
+A Skript IDE
